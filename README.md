@@ -1,4 +1,4 @@
-[![MasterHead](https:https://miro.medium.com/max/1400/1*_9b6Zt10K0cBB5vJNAhA7A.jpeg)]
+[![MasterHead](https://miro.medium.com/max/1400/1*_9b6Zt10K0cBB5vJNAhA7A.jpeg)](https://www.linkedin.com/in/siddharth-panigrahi-266871214/)
 <h1 align="center">Hi 👋, I'm Siddharth Panigrahi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
